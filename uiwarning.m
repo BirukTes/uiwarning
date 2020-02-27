@@ -1,5 +1,5 @@
 function TabGroup = uiwarning(uifigureObj, title, message, showBackground, delay)
-    % uiWarining shows a warning dialog based on uitabgroup with parameter to delay user interaction
+    % uiwarining shows a warning dialog based on uitabgroup with parameter to delay user interaction
     %
     % uifigureObj     - uifigure
     % title           - char/string
